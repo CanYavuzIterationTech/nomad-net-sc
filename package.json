@@ -1,0 +1,9 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@bnb-chain/greenfield-contracts-sdk": "^1.0.0",
+    "@nomicfoundation/hardhat-toolbox-viem": "^1.0.0",
+    "hardhat": "^2.19.0",
+    "solidity-hashmap": "^0.3.1"
+  }
+}
